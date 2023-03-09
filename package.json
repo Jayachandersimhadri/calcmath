@@ -1,0 +1,16 @@
+{
+  "name": "calcmath",
+  "version": "0.0.1",
+  "main": "calc",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/Jayachandersimhadri/calcmath"
+  },
+  "keyword":[
+    "calc","calcmath","psk"
+  ],
+  "dependencies":{},
+  "engines":{
+    "node":"*"
+  }
+}
